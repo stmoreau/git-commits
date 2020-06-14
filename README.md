@@ -1,4 +1,4 @@
-# FIll in my commits
+# Fill in your git commits
 
 - https://github-contributions.now.sh/ commit history from the beginning of github
 - https://hackernoon.com/how-to-hack-github-kind-of-12b08a46d02e article where I found the script
