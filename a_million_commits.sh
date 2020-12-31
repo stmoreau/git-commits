@@ -5,7 +5,7 @@ do
   mkdir $Y
   cd $Y
   # months
-  for M in {09..12}
+  for M in {01..12}
   do
     mkdir $M
     cd $M
