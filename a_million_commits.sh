@@ -1,6 +1,6 @@
 # a million commits
 # year range
-for Y in {2020..2020}
+for Y in {2021..2021}
 do
   mkdir $Y
   cd $Y
